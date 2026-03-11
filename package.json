@@ -41,5 +41,9 @@
     "the-number-one": "^1.0.1",
     "tru": "^1.0.0",
     "weird-instanceof": "^1.0.0"
+  },
+  "devDependencies": {
+    "@10xly/eslint-config": "*",
+    "eslint": "^9.39.3"
   }
 }
